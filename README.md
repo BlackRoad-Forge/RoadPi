@@ -1,3 +1,20 @@
+# RoadPi
+
+> Learn OS development on Raspberry Pi with Linux kernel
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`s-matyukevich/raspberry-pi-os`](https://github.com/s-matyukevich/raspberry-pi-os) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | C |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # Learning operating system development using Linux kernel and Raspberry Pi
 
 This repository contains a step-by-step guide that teaches how to create a simple operating system (OS) kernel from scratch. I call this OS Raspberry Pi OS or just RPi OS. The RPi OS source code is largely based on [Linux kernel](https://github.com/torvalds/linux), but the OS has very limited functionality and supports only [Raspberry PI 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/). 
@@ -67,4 +84,3 @@ For more information about project goals and history, please read the [Introduct
 * **Lesson 9: Executable files (ELF)** (To be done)
 * **Lesson 10: Drivers** (To be done)
 * **Lesson 11: Networking** (To be done)
-
